@@ -15,4 +15,28 @@ public class Joke {
     public Joke() {
         mId = UUID.randomUUID();
     }
+
+    public UUID getId() {
+        return mId;
+    }
+
+    public void setId(UUID id) {
+        mId = id;
+    }
+
+    public String getTitle() {
+        return mTitle;
+    }
+
+    public void setTitle(String title) {
+        mTitle = title;
+    }
+
+    public boolean isViewed() {
+        return mViewed;
+    }
+
+    public void setViewed(boolean viewed) {
+        mViewed = viewed;
+    }
 }
