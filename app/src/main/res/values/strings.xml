@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Jokearama</string>
+    <string name="knock_knock">Knock knock.</string>
+    <string name="whos_there">Who\'s there?</string>
+    <string name="koltin">Koltin</string>
+    <string name="koltin_who">Koltin who?</string>
+    <string name="punch_line">Koltin the language, you fool!</string>
 </resources>
